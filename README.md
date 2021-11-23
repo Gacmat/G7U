@@ -1,1 +1,1 @@
-My setting files for all commonly using programs and features
+Some settings to some programs
